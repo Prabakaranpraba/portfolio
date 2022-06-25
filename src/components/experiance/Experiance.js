@@ -15,42 +15,42 @@ const Experiance =()=> {
               <BsFillCheckCircleFill className="experiance_details-icon"/>
               <div>
               <h4>HTML</h4>
-              <small className='text-light'>Experianced</small>
+              {/* <small className='text-light'>Experianced</small> */}
               </div>
             </article>
             <article className='experiance_details'>
               <BsFillCheckCircleFill className="experiance_details-icon"/>
               <div>
               <h4>CSS</h4>
-              <small className='text-light'>Experianced</small>
+              {/* <small className='text-light'>Experianced</small> */}
               </div>
             </article>
             <article className='experiance_details'>
               <BsFillCheckCircleFill className="experiance_details-icon"/>
               <div>
               <h4>BOOTSTRAP</h4>
-              <small className='text-light'>Experianced</small>
+              {/* <small className='text-light'>Experianced</small> */}
               </div>
             </article>
             <article className='experiance_details'>
               <BsFillCheckCircleFill className="experiance_details-icon"/>
               <div>
               <h4>JavaScript</h4>
-              <small className='text-light'>Experianced</small>
+              {/* <small className='text-light'>Experianced</small> */}
               </div>
             </article>
             <article className='experiance_details'>
             <BsFillCheckCircleFill className="experiance_details-icon"/>
               <div>
               <h4>ReactJS</h4>
-              <small className='text-light'>Experianced</small>
+              {/* <small className='text-light'>Experianced</small> */}
               </div>
             </article>
             <article className='experiance_details'>
             <BsFillCheckCircleFill className="experiance_details-icon"/>
               <div>
               <h4>WORDPRESS</h4>
-              <small className='text-light'>Experianced</small>
+              {/* <small className='text-light'>Experianced</small> */}
               </div>
             </article>
           </div>
