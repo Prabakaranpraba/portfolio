@@ -22,7 +22,7 @@ function Contact() {
             <BsWhatsapp className='contact_option-icon'/>
             <h5>WhatsApp</h5>
             <p style={{fontSize:"11px"}}>+91 8526094172</p>
-            <a href='https://api.whatsapp.com/send?phone=8526094172' rel="noreferrer" target="_blank">Send a message</a>
+            <a href='https://api.whatsapp.com/send?phone=+918526094172' rel="noreferrer" target="_blank">Send a message</a>
           </artical>
         </div>
         {/* Contact-form */}
