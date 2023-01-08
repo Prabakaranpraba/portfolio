@@ -20,7 +20,8 @@ const About = () => {
         <p>I am a Frontend developer developer and a hardware enthusiastic currently learning web development.</p>
         <p>I currently working on projects based on React </p>
         <p>I was born in Tirupur,Tamil Nadu and currently Staying in Bangalore, working as a developer</p>
-        <p>I've started my career as Frontend developer in Pinkzz Info from oct 22, 2019 to till date</p>
+        <p>I've started my career as Frontend developer in Pinkzz Info from oct 2019 to  jun 2022</p>
+        <p>currently working on Worpress developer in Maverico Technologies from Jul 2022 to till date</p>
         <p>I've done few freelancing projects based on PHP, HTML, CSS, JS, wordpress </p>
         <a href='#contact' className='btn btn-primary'>Let's Talk</a>
       </div>

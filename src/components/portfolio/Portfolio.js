@@ -5,42 +5,74 @@ import IMG2 from "../../assets/Vrindafarms.png"
 import IMG3 from "../../assets/Teemage-Teemage-Precast-In.png"
 import IMG4 from "../../assets/Home-flexconelastomerics.png"
 import IMG5 from "../../assets/Home-Ragagrapics.png"
+import IMG6 from "../../assets/Sambhaar-online-grocery-store.png"
+import IMG7 from "../../assets/Gulnaar-Gulnaar.png"
+import IMG8 from "../../assets/Jerith-Group-Home.png"
+import IMG9 from "../../assets/Home-SSVSV-Fashion.png"
 
 const data =[
 {  
   id: 1,
-  image: IMG1,
-  title: "Vazhalai",
+  image: IMG6,
+  title: "Sambhaar",
   github: "http://github.com",
-  demo: "https://vazhalai.com/"
+  demo: "https://sambhaar.com/"
 },
 {  
   id: 2,
+  image: IMG7,
+  title: "Gulnaar",
+  github: "http://github.com",
+  demo: "https://demo.gulnaar.co/"
+},
+{  
+  id: 3,
+  image: IMG9,
+  title: "ssvsv Fashion",
+  github: "http://github.com",
+  demo: "https://ssvsvfashion.com/"
+},
+{  
+  id: 4,
+  image: IMG8,
+  title: "Jerith Group",
+  github: "http://github.com",
+  demo: "https://www.jerithgroup.com/"
+},
+{  
+  id: 5,
   image: IMG2,
   title: "vrindafarms",
   github: "http://github.com",
   demo: "https://vrindafarms.co.in/"
 },
 {  
-  id: 3,
+  id: 6,
   image: IMG3,
   title: "Teemage",
   github: "http://github.com",
   demo: "https://www.teemageprecast.in/"
 },
 {  
-  id: 4,
+  id: 7,
   image: IMG4,
   title: "Flexconelastomerics",
   github: "http://github.com",
   demo: "https://flexconelastomerics.in/"
 },
 {  
-  id: 5,
+  id: 8,
   image: IMG5,
   title: "Ragagrapics",
   github: "http://github.com",
   demo: "https://ragagrapics.in/"
+},
+{  
+  id: 9,
+  image: IMG1,
+  title: "Vazhalai",
+  github: "http://github.com",
+  demo: "https://vazhalai.com/"
 }
 
 ]
