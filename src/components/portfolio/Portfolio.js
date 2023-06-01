@@ -50,10 +50,10 @@ const data = [
   // },
   {
     id: 4,
-    image: IMG8,
-    title: "Jerith Group",
-    github: "http://github.com",
-    demo: "https://www.jerithgroup.com/",
+     image: IMG2,
+    title: "vrindafarms",
+   github: "http://github.com",
+   demo: "https://vrindafarms.co.in/",
   },
   // {
   //   id: 5,
@@ -69,6 +69,14 @@ const data = [
     github: "http://github.com",
     demo: "https://www.teemageprecast.in/",
   },
+    {
+    id: 7,
+    image: IMG8,
+    title: "Jerith Group",
+    github: "http://github.com",
+    demo: "https://www.jerithgroup.com/",
+  },
+  
   // {
   //   id: 7,
   //   image: IMG4,
